@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Aplikasi Polije Cindy</string>
+    <string name="ucapan_selamat_datang">UKM Politeknik Negeri Jember</string>
+    <string-array name="major">
+        <item>English Club</item>
+        <item>Olahraga</item>
+        <item>Lukis Musik Tari</item>
+        <item>Teater</item>
+        <item>Robotika</item>
+        <item>Persekutuan Mahasiswa Kristen</item>
+        <item>Studi Karya Ilmiah Mahasiswa</item>
+        <item>Lembaga Aktivis Islam Kampus</item>
+        <item>Resimen Mahasiswa 877</item>
+        <item>Koperasi Mahasiswa BERDIKARI</item>
+        <item>Pramuka Racana Arjuna-Srikandi Gugusdepan Jember 20.155-02.156 Pangkalan Politeknik Negeri Jember</item>
+        <item>Korps Suka Rela Palang Merah Indonesia Unit Politeknik Negeri Jember</item>
+        <item>Paduan Suara Mahasiswa Gema Aluna Widjaja</item>
+        <item>Himpunan Mahasiswa Pecinta Alam BEKISAR</item>
+        <item>Pers Mahasiswa EXPLANT</item>
+        <item>BARABAS Drum Corps</item>
+    </string-array>
+</resources>
